@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Renovate preset to update gitlab remote include for renovate templates",
+  "extends": [
+    "config:best-practices"
+  ],
+  "customManagers": [
+  ]
+}
+
