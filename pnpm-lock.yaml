@@ -1,0 +1,16 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+overrides:
+  renovate: link:../renovate
+
+importers:
+
+  .:
+    dependencies:
+      renovate:
+        specifier: link:../renovate
+        version: link:../renovate

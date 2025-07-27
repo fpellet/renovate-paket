@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"run-renovate": "renovate --platform=local --repository-cache=reset"
+	},
+	"dependencies": {
+		"renovate": "^41.43.5"
+	}
+}
