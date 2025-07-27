@@ -5,6 +5,10 @@
     "config:best-practices"
   ],
   "customManagers": [
-  ]
+  ],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": ["* * * * *"]
+  }
 }
 
