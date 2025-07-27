@@ -1,0 +1,18 @@
+RESTRICTION: == net8.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (9.0.300)
+    xunit (2.9.2)
+      xunit.analyzers (>= 1.18)
+      xunit.assert (>= 2.9.2)
+      xunit.core (2.9.2)
+    xunit.abstractions (2.0.2)
+    xunit.analyzers (1.23)
+    xunit.assert (2.9.2)
+    xunit.core (2.9.2)
+      xunit.extensibility.core (2.9.2)
+      xunit.extensibility.execution (2.9.2)
+    xunit.extensibility.core (2.9.2)
+      xunit.abstractions (>= 2.0.3)
+    xunit.extensibility.execution (2.9.2)
+      xunit.extensibility.core (2.9.2)
