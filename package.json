@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"run-renovate": "renovate --platform=local"
+		"run-renovate": "renovate --platform=local --binary-source=global --update-lock-files --update-not-scheduled"
 	},
 	"dependencies": {
 		"renovate": "^41.43.5"
