@@ -14,7 +14,7 @@
     {
       "groupName": "paket",
       "matchManagers": ["paket"],
-      "enabled": false
+      "enabled": true
     }
   ]
 }
