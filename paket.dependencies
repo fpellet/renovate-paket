@@ -4,4 +4,4 @@ framework: net8.0
 
 nuget Fsharp.Core
 nuget xunit
-
+nuget Fake
