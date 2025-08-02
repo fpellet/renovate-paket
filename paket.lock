@@ -1,6 +1,7 @@
 RESTRICTION: == net8.0
 NUGET
   remote: https://api.nuget.org/v3/index.json
+    FAKE (5.14)
     FSharp.Core (9.0.300)
     xunit (2.9.1)
       xunit.analyzers (>= 1.18)
