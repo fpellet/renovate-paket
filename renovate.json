@@ -15,7 +15,7 @@
       "groupName": "paket",
       "matchManagers": ["paket"],
       "matchDepNames": "*",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
